@@ -68,3 +68,5 @@ https://github.com/1220505026/kontrolpanell/assets/127394173/0cbb2c16-b7d6-4afd-
 ![görüntü1](https://github.com/1220505026/kontrolpanell/assets/127394173/074953ab-98f5-4359-840f-a0d1c642dc0f)
 
 ![görüntü2](https://github.com/1220505026/kontrolpanell/assets/127394173/7be62570-ea2c-454e-8cb8-c09a1f3a1248)
+
+![görüntü3](https://github.com/1220505026/kontrolpanell/assets/127394173/b32b91e4-202f-4298-a57b-5423489047fd)
