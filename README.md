@@ -61,3 +61,4 @@ GraphQL, web geliştirmenin birçok alanında yaygın olarak kullanılan bir tek
  GraphQL geniş bir uygulama alanına sahiptir ve web geliştirme ekosisteminde önemli bir rol oynamaktadır.
  Hem web  hem de mobil uygulamaların geliştirme sürecinde daha esnek ve etkin veri alışverişinin sağlanması arzu edilmektedir.
 
+https://github.com/1220505026/kontrolpanell/assets/127394173/0cbb2c16-b7d6-4afd-8177-ce6c6ba727f0
