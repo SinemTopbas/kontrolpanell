@@ -22,12 +22,12 @@ Bu tür bir uygulama, kullanıcı arayüzü etkileşimlerini yönetebilir ve gö
 
 GraphQL NEDİR?
 
-GraphQL, web geliştirmenin vazgeçilmez araçlarından biridir ve basitçe ifade etmek gerekirse, bilgisayar sistemleri arasında veri alışverişi için kullanılan bir sorgu dilidir. Geleneksel API (Application Programming Interface) yöntemlerinden farklı olarak, GraphQL istemcilere daha fazla kontrol ve esneklik sağlar. Kullanıcılar, sadece ihtiyaçları olan veriyi talep edebilir ve böylece gereksiz veri alışverişi önlenerek ağ trafiği optimize edilir. GraphQL aynı zamanda tek bir endpoint üzerinden çalışır, bu da API'nin daha düzenli ve kullanıcı dostu olmasını sağlar. Güçlü bir şema (schema) sistemi sayesinde, hangi veri türlerine ve alanlara erişilebileceği önceden belirlenir, bu da geliştiricilere rehberlik eder ve uygulama geliştirme sürecini daha anlaşılır kılar. Genel olarak, GraphQL, web uygulamalarının veri yönetimi ve iletişimini daha etkili hale getirmek için kullanılan güçlü bir araçtır.
+  GraphQL, web geliştirmenin vazgeçilmez araçlarından biridir ve basitçe ifade etmek gerekirse, bilgisayar sistemleri arasında veri alışverişi için kullanılan bir sorgu dilidir. Geleneksel API (Application Programming Interface) yöntemlerinden farklı olarak, GraphQL istemcilere daha fazla kontrol ve esneklik sağlar. Kullanıcılar, sadece ihtiyaçları olan veriyi talep edebilir ve böylece gereksiz veri alışverişi önlenerek ağ trafiği optimize edilir. GraphQL aynı zamanda tek bir endpoint üzerinden çalışır, bu da API'nin daha düzenli ve kullanıcı dostu olmasını sağlar. Güçlü bir şema (schema) sistemi sayesinde, hangi veri türlerine ve alanlara erişilebileceği önceden belirlenir, bu da geliştiricilere rehberlik eder ve uygulama geliştirme sürecini daha anlaşılır kılar. Genel olarak, GraphQL, web uygulamalarının veri yönetimi ve iletişimini daha etkili hale getirmek için kullanılan güçlü bir araçtır.
 
 
 GraphQL HANGİ AMAÇLARLA KULLANILIR?
 
-GraphQL, web geliştirme projelerinde çeşitli amaçlarla kullanılan bir teknolojidir.
+    GraphQL, web geliştirme projelerinde çeşitli amaçlarla kullanılan bir teknolojidir.
  İlk olarak GraphQL, veri alışverişini optimize etmek ve daha verimli hale getirmek için kullanılır.
  Geleneksel RESTful API'ler müşterilere belirli bir uç nokta aracılığıyla belirli bir veri kümesi sağlarken GraphQL, müşterilere ihtiyaç duydukları verileri sorgulama ve alma esnekliği sağlar.
  Bu, gereksiz veri alımını önler, ağ trafiğini azaltır ve performansı artırır.
@@ -46,7 +46,7 @@ GraphQL, web geliştirme projelerinde çeşitli amaçlarla kullanılan bir tekno
 
 GraphQL KULLANIM ALANLARI NELERDİR?
 
-GraphQL, web geliştirmenin birçok alanında yaygın olarak kullanılan bir teknoloji olarak kendini göstermektedir.
+   GraphQL, web geliştirmenin birçok alanında yaygın olarak kullanılan bir teknoloji olarak kendini göstermektedir.
  Bu esnek ve güçlü yapı, çeşitli alanlarda etkin bir şekilde kullanılmaktadır.
  Öncelikle GraphQL web geliştirmenin temelinde yer alıyor ve web sitelerinde ve uygulamalarda sıklıkla karşımıza çıkıyor.
  GraphQL'in  esnek veri alışverişi sayesinde büyük ve karmaşık web uygulamalarını, özellikle tek sayfalı uygulamaları  daha etkin bir şekilde yönetebilirsiniz.   
